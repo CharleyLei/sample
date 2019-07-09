@@ -6,3 +6,5 @@ Git has a mutable index called stage
 Git tracks changes
 you and mes
 Creating a new branch is quick & simple.
+
+update new line in readme file
